@@ -1,5 +1,12 @@
 [
     {
+        "id": "hottomotto",
+        "title": "ほっともっとTVCM「スポーツ弁当」",
+        "tag": "OTHER",
+        "link": "https://youtu.be/FEaWvcIr58A",
+        "img": "hottomotto.jpg"
+    },
+    {
         "id": "sakamoto",
         "title": "サカモトデイズ渋谷13面連動デジタルサイネージ",
         "tag": "OTHER",
@@ -110,13 +117,6 @@
         "tag": "MV",
         "link": "https://twitter.com/ka3de_Rain/status/1609867096636227586",
         "img": "pamera.png"
-    },
-    {
-        "id": "mai",
-        "title": "Guiano - 舞",
-        "tag": "MV",
-        "link": "https://youtu.be/Y6xEKK-T4dU",
-        "img": "mai.png"
     },
     {
         "id": "road-crossing",
