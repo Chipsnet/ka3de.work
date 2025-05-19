@@ -1,5 +1,19 @@
 [
     {
+        "id": "tonbocope_hajimarinoaizu",
+        "title": "トンボコープ「始まりの合図」ショート動画",
+        "tag": "OTHER",
+        "link": "https://www.tiktok.com/@tombo_coop_official/video/7490508449596460296?lang=ja-JP",
+        "img": "sakamoto.png"
+    },
+    {
+        "id": "hottomotto",
+        "title": "ほっともっとTVCM「スポーツ弁当」",
+        "tag": "OTHER",
+        "link": "https://youtu.be/FEaWvcIr58A",
+        "img": "sakamoto.png"
+    },
+    {
         "id": "sakamoto",
         "title": "サカモトデイズ渋谷13面連動デジタルサイネージ",
         "tag": "OTHER",
@@ -110,13 +124,6 @@
         "tag": "MV",
         "link": "https://twitter.com/ka3de_Rain/status/1609867096636227586",
         "img": "pamera.png"
-    },
-    {
-        "id": "mai",
-        "title": "Guiano - 舞",
-        "tag": "MV",
-        "link": "https://youtu.be/Y6xEKK-T4dU",
-        "img": "mai.png"
     },
     {
         "id": "road-crossing",
