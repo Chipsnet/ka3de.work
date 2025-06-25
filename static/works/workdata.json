@@ -1,5 +1,21 @@
 [
     {
+        "id": "ansatsu",
+        "title": "TVアニメ「暗殺教室」× 友成空「黄色信号｣ Collaboration Music Video",
+        "tag": "OTHER",
+        "link": "https://youtu.be/wrUZa7Lasjk?list=RDwrUZa7Lasjk",
+        "img": "ansatsu.jpg"
+    },
+
+    {
+        "id": "sikiyoku",
+        "title": "Dannie May「色欲」（Music Video）",
+        "tag": "OTHER",
+        "link": "https://youtu.be/Wlmp9HvxXVU?list=RDWlmp9HvxXVU",
+        "img": "sikiyoku.jpg"
+    },
+
+    {
         "id": "sakamoto",
         "title": "サカモトデイズ渋谷13面連動デジタルサイネージ",
         "tag": "OTHER",
