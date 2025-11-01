@@ -1,12 +1,32 @@
 [
     {
+        "id": "last",
+        "title": "Dannie May「ラストパレード」（MUSIC VIDEO）",
+        "tag": "MV",
+        "link": "https://youtu.be/VKEfAweYAVw?list=RDVKEfAweYAVw",
+        "img": "last.png"
+    },
+    {
+        "id": "lollipop",
+        "title": "【MV】Lollipop / miComet",
+        "tag": "OTHER",
+        "link": "https://youtu.be/Jz2SeJDfml8?si=VoRA8w8WNNpRTU49",
+        "img": "lollipop.png"
+    },
+    {
+        "id": "Techne",
+        "title": "情報番組「テクネ考」 OP 映像",
+        "tag": "OTHER",
+        "link": "https://jp.ub-speeda.com/seminar/20250805_iprd/",
+        "img": "Techne.png"
+    },
+    {
         "id": "ansatsu",
         "title": "TVアニメ「暗殺教室」× 友成空「黄色信号｣ Collaboration Music Video",
         "tag": "OTHER",
         "link": "https://youtu.be/wrUZa7Lasjk?list=RDwrUZa7Lasjk",
         "img": "ansatsu.jpg"
     },
-
     {
         "id": "sikiyoku",
         "title": "Dannie May「色欲」（Music Video）",
@@ -98,13 +118,6 @@
         "tag": "MV",
         "link": "https://youtu.be/rvy6gAdtcmU",
         "img": "aoiromerimento.png"
-    },
-    {
-        "id": "starrycherrypv",
-        "title": "StarryCherry1期生 デビューティザーPV",
-        "tag": "OTHER",
-        "link": "https://youtu.be/PcOAajX4bIU",
-        "img": "starrycherrypv.png"
     },
     {
         "id": "unknownMothergooth",
